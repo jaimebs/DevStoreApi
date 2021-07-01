@@ -1,0 +1,5 @@
+K:\Jaime\Projetos\devstoreapi\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+K:\Jaime\Projetos\devstoreapi\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+K:\Jaime\Projetos\devstoreapi\DevStore.Domain\obj\Debug\DevStore.Domain.csprojResolveAssemblyReference.cache
+K:\Jaime\Projetos\devstoreapi\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+K:\Jaime\Projetos\devstoreapi\DevStore.Domain\obj\Debug\DevStore.Domain.pdb

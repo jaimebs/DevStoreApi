@@ -1,0 +1,12 @@
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\bin\Debug\DevStore.Infra.dll.config
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\bin\Debug\DevStore.Infra.dll
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\bin\Debug\DevStore.Infra.pdb
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\bin\Debug\DevStore.Domain.dll
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\bin\Debug\EntityFramework.dll
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\bin\Debug\DevStore.Domain.pdb
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\bin\Debug\EntityFramework.xml
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\obj\Debug\DevStore.Infra.csprojResolveAssemblyReference.cache
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\obj\Debug\DevStore.Infra.dll
+K:\Jaime\Projetos\devstoreapi\DevStore.Infra\obj\Debug\DevStore.Infra.pdb
